@@ -13,9 +13,7 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 
-University project aimed at creating a hypothetical start-up.
-
-For more information, there is a <a href="https://github.com/emanuelaelli/Service_Science/blob/main/Presentazione.pdf">presentation</a> of the project in which the context and the work carried out are explained in detail, also with a mockup version of the application.
+University project aimed at creating a hypothetical start-up named Spot (a social network with a particolar vision). For more information, there is a <a href="https://github.com/emanuelaelli/Service_Science/blob/main/Presentazione.pdf">presentation</a> of the project in which the context and the work carried out are explained in detail, also with a mockup version of the application.
 
 
 <a name="aboutus"></a>
